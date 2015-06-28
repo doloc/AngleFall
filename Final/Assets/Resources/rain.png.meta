@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: cf74c9c756b97864d90f5e1dac32977d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rain_0
+    21300002: rain_1
+    21300004: rain_2
+    21300006: rain_3
+    21300008: rain_4
+    21300010: rain_5
+    21300012: rain_6
+    21300014: rain_7
+    21300016: rain_8
+    21300018: rain_9
+    21300020: rain_10
+    21300022: rain_11
+    21300024: rain_12
+    21300026: rain_13
+    21300028: rain_14
+    21300030: rain_15
+    21300032: rain_16
+    21300034: rain_17
+    21300036: rain_18
+    21300038: rain_19
+    21300040: rain_20
+    21300042: rain_21
+    21300044: rain_22
+    21300046: rain_23
+    21300048: rain_24
+    21300050: rain_25
+    21300052: rain_26
+    21300054: rain_27
+    21300056: rain_28
+    21300058: rain_29
+    21300060: rain_30
+    21300062: rain_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rain_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 29
+        width: 327
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rain_4
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 29
+        width: 327
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rain_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 29
+        width: 327
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
